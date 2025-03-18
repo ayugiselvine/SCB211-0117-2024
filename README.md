@@ -1,7 +1,7 @@
 # Selvine Odhiambo Ayugi's Portfolio Website
 
 ## Overview
-This is my first personal portfolio website, showcasing my skills, personality, and favorite meals. It was built using HTML, CSS, and basic JavaScript (if applicable).
+This is my first personal portfolio website, showcasing my skills, personality, and favorite meals. It was built using HTML, CSS, and basic JavaScript.
 
 ## How to Navigate
 - **Home (index.html)**: Landing page with an introduction and navigation.
